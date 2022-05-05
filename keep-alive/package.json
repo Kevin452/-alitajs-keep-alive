@@ -1,0 +1,55 @@
+{
+  "_from": "@alitajs/keep-alive@^2.5.2",
+  "_id": "@alitajs/keep-alive@2.5.2",
+  "_inBundle": false,
+  "_integrity": "sha1-H9FzdFHpgPV9/jd3qAtnsMeCyaI=",
+  "_location": "/@alitajs/keep-alive",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@alitajs/keep-alive@^2.5.2",
+    "name": "@alitajs/keep-alive",
+    "escapedName": "@alitajs%2fkeep-alive",
+    "scope": "@alitajs",
+    "rawSpec": "^2.5.2",
+    "saveSpec": null,
+    "fetchSpec": "^2.5.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/@alitajs/keep-alive/download/@alitajs/keep-alive-2.5.2.tgz",
+  "_shasum": "1fd1737451e980f57dfe3777a80b67b0c782c9a2",
+  "_spec": "@alitajs/keep-alive@^2.5.2",
+  "_where": "/Users/Kevin/Desktop/Project/iem-pc",
+  "authors": [
+    "xiaohuoni <448627663@qq.com> (https://github.com/xiaohuoni)"
+  ],
+  "bugs": {
+    "url": "http://github.com/alitajs/alita/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "@alitajs/keep-alive",
+  "files": [
+    "lib"
+  ],
+  "homepage": "https://github.com/alitajs/alita/tree/master/packages/keep-alive#readme",
+  "keywords": [
+    "umi",
+    "alita"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@alitajs/keep-alive",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alitajs/alita.git"
+  },
+  "types": "lib/index.d.ts",
+  "version": "2.5.2"
+}
